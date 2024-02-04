@@ -1,0 +1,7 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+	<PropertyGroup>
+		<Product>api project</Product>
+	</PropertyGroup>
+
+</Project>
