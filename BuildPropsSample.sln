@@ -6,6 +6,9 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{EC7C6171-D4AF-4DD2-A457-9225F4C8CD40}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{F442F0CE-B2FA-461C-B613-033503DDD6E9}"
+	ProjectSection(SolutionItems) = preProject
+		tests\Directory.Build.props = tests\Directory.Build.props
+	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BuildPropsSample.API", "src\BuildPropsSample.API\BuildPropsSample.API.csproj", "{48D7428E-78CF-4E14-A4BB-B1CDEF6E1CD9}"
 EndProject
